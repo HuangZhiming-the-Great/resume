@@ -1,2 +1,2 @@
 # resume
-this is a series of files that set down the steps that I do for be hired.
+This is a series of files that set down the steps which is what I do for be hired.
