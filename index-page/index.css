@@ -148,13 +148,13 @@ footer div p, footer div ul {
 }
 
 footer .full-education {
-  flex: 2 1 160px;
+  flex: 2 2 160px;
 }
 
 footer .english-level {
-  flex: 1 1 100px;
+  flex: 1 2 100px;
 }
 
 footer .full-selfintroduction {
-  flex: 8 0 400px;
+  flex: 8 1 400px;
 }
