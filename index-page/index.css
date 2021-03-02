@@ -137,6 +137,17 @@ footer {
   display: flex;
 }
 
+@media screen and (max-width: 600px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer .full-selfintroduction  {
+    display: none;
+  }
+}
+
 footer div h2 {
   text-align: center;
   font-size: 25px;
